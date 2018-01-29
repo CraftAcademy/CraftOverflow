@@ -10,9 +10,12 @@ I would like to have my problem reviewed by my peers and coaches.
 
 1. Identify the problem
 2. Create an issue
-3. Post the issue on Slack
-4. Wait for help
-5. Get unstucked
+3. Add a screenshot (if applicable)
+4. Add a short background to the issue
+5. Post the issue on Slack
+6. Wait for help from a coach or a fellow student
+7. Get unstucked
+
 
 
 ## Why post on Craft Overflow? 
