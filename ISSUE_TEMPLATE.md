@@ -52,5 +52,4 @@ Write the steps you took to try to fix the problem here
 
 
 ###
-Markdown documentation
-https://guides.github.com/features/mastering-markdown/
+Markdown [guide](https://guides.github.com/features/mastering-markdown/)
