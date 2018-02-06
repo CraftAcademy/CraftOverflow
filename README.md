@@ -4,7 +4,7 @@
 
 ```
 As a learner at Craft Academy,
-In order to get unstuck,
+In order to get unblocked,
 I would like to have my problem reviewed by my peers and coaches.
 ```
 
@@ -14,7 +14,7 @@ I would like to have my problem reviewed by my peers and coaches.
 4. Add a short background to the issue
 5. Post the issue on Slack
 6. Wait for help from a coach or a fellow student
-7. Get unstucked
+7. Get unblocked
 
 
 
