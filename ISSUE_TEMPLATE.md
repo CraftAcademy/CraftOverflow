@@ -51,5 +51,7 @@ Add your screenshots here
 Write the steps you took to try to fix the problem here
 
 
-###
+### 
 Markdown [guide](https://guides.github.com/features/mastering-markdown/)
+
+**Note: PLEASE REMOVE SECTIONS THAT WERE NOT FILLED UP BEFORE YOU SUBMIT YOUR ISSUE. INCLUDING THIS NOTE**
