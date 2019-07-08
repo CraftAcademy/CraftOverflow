@@ -5,6 +5,8 @@ Write your problem here
 ### Background
 Please add to the problems
 
+## [Repo-link](https://github.com/CraftAcademy/CraftOverflow/edit/master/ISSUE_TEMPLATE.md)
+
 #### Story
 Please add a story if applicable
 
